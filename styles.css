@@ -39,3 +39,19 @@ body {
 
 /* Login Form */
 
+#form-box {
+  background-color: #fff;
+  border: 1px solid #dbdbdb;
+  width: 350px;
+  margin-top: 30px;
+}
+
+#logo-insta {
+  width: 175px;
+  height: 51px;
+  margin: 30px auto 12px;
+}
+
+#login-form {
+  margin-top: 20px;
+}
